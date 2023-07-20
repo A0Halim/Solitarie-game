@@ -1,2 +1,2 @@
-# Solitarie-game
+# Solitaire-game
 classic solitarie game
