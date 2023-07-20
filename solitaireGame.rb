@@ -68,7 +68,7 @@ def reset(cardAddressInf, flippedCardImg)
     )
     end
   end
-  #Ortada olmayan cardsı kenara ekler
+
   cardAddress.each do |address|
     remainCards.unshift Kart.new(
       cardAddressInf[address],
